@@ -1,0 +1,5 @@
+class rocket
+{
+  public:
+    cout<<"easwar rescued !!"<<"endl<<"rocket found"<<endl;
+}
